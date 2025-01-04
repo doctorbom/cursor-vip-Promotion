@@ -81,3 +81,5 @@ cursor-vip
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=kingparks/cursor-vip&type=Date" />
  </picture>
 </a>
+
+device id: 3035decf91ef46c09e6082bab8fff98c
